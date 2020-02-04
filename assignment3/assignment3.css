@@ -1,0 +1,56 @@
+#mainheader {
+  color: #ffffff;
+  background-color: #E75454;
+}
+
+#subheader {
+  color: #ffffff;
+  background-color: #05C8C5;
+}
+
+.bodytext {
+  background-color: #D3D3D3;
+}
+
+#header3 {
+  color: #ffffff;
+  background-color: #58FF95;
+}
+
+#header4 {
+  color: #ffffff;
+  background-color: #FF9E00;
+}
+
+#header5 {
+  color: #ffffff;
+  background-color: #AD1AC4;
+}
+
+a {
+ color: #ff0000;
+}
+
+a:link {
+ color: #ff0000;
+}
+
+a:visited {
+ color: #00ff00;
+}
+
+a:active {
+ color: #ff0000;
+}
+
+a:hover {
+ color: #ffff00;
+}
+
+#contactinfo {
+  color: #0000ff;
+}
+
+#highlight {
+  color: #ff0000;
+}
