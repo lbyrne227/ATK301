@@ -1,0 +1,58 @@
+#thepoisonsky {
+  background-color: #948BFD;
+}
+
+.thepoisonskyhead {
+  color: #ffffff;
+}
+
+#thefires1 {
+  color: #602AD7;
+}
+
+.thedoctor {
+  color: #FFBB00;
+}
+
+#thefires2 {
+  background-color: #ffff00;
+}
+
+#firesbody {
+  color: #C70000;
+}
+
+#fathersday {
+  background-color: #037C00;
+  color: #ffff00;
+}
+
+#fathersdaybody {
+  background-color: #8BFF88;
+}
+
+#daughter {
+  color: #8D0081;
+}
+
+a {
+ color: #00CC06;
+}
+
+a:link {
+ color: #00CC06;
+ text-decoration: none;
+}
+
+a:visited {
+ color: #00CC06;
+}
+
+a:active {
+ color: #00CC06;
+}
+
+a:hover {
+ color: #ff0000;
+ text-decoration: underline;
+}
