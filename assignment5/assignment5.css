@@ -1,0 +1,94 @@
+.bootsriley {
+  font-family: impact, sans-serif;
+  color: #914078;
+  border-bottom: 3px solid #914078;
+  text-align: left;
+  padding: 0;
+  margin: 0px;
+  font-size: 15pt;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.redhead {
+  font-family: impact, sans-serif;
+  color: #FD023A;
+  font-size: 100pt;
+  padding-bottom: 0px;
+}
+
+.pinkhead {
+  font-family: impact, sans-serif;
+  color: #FF2AF9;
+  font-size: 100pt;
+  padding-bottom: 0px;
+}
+
+.purplebody {
+  font-family: impact, sans-serif;
+  color: #914078;
+  font-size: 21pt;
+}
+
+.redbody {
+  font-family: impact, sans-serif;
+  color: #FD023A;
+  font-size: 26pt;
+}
+
+.pinkbody {
+  font-family: impact, sans-serif;
+  color: #FF2AF9;
+  font-size: 26pt;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
+p {
+  text-align: justify;
+  padding-left: 320px;
+  padding-top: 40px;
+  margin-top: 375px;
+  margin-bottom: 15px;
+}
+
+footer {
+  font-family: impact, sans-serif;
+  text-align: center;
+  color: #FF2AF9;
+  border-top: 3px solid #914078;
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+body {
+  background-color:	#FBD335;
+  background-image: url(Lakeith.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  padding-bottom: 10px;
+}
+
+.movierating {
+  margin-top: 10px;
+}
+
+.bootsrileybig {
+  font-size: 25pt;
+}
+
+a {
+  text-decoration: none;
+  color: magenta;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
