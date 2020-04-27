@@ -70,7 +70,7 @@ main {
 footer {
   grid-column: span 12;
   margin-top: -2215px;
-  padding-right: 300px;
+  padding-right: 100px;
   color: white;
   font-family: helvetica, arial, sans-serif;
   text-align: center;
@@ -133,4 +133,21 @@ text-decoration: underline;
 footer a{
   text-decoration: none;
   font-size: 30px;
+}
+
+.portfolio {
+  width: 300px;
+}
+
+.portfolioheader {
+  font-family: 'WhiskeyBitev2-Outline', Helvetica, Arial, Sans-Serif;
+  font-size: 45px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+#portfolioslideshow {
+  grid-template-columns: span 12;
+  display: block;
+  margin-top: 400px;
 }

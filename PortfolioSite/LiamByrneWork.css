@@ -1,0 +1,153 @@
+body {
+  background-color: #999999;
+
+}
+
+#wrapper {
+  margin: auto;
+  width: 1200px;
+  height: 2050px;
+  background-color: #B5E6F2;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+  grid-template-rows: 600px;
+  background-image: url(images/logo.png);
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+nav{
+  grid-column: span 12;
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  padding: 24px;
+  margin: 0px;
+  width: 1140px;
+  height: 60px;
+  margin-left: 0px;
+  margin-top: 150px;
+  margin-right: 0px;
+  padding-left: 60px;
+  background-color: white;
+  padding-right: 0px;
+}
+
+ul li {
+  display: inline-block;
+  list-style-type: none;
+  text-align: center;
+  margin-right: 200px;
+  background-color: white;
+  padding: 10px;
+  margin-top: 0px;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12pt;
+}
+
+
+#welcome {
+grid-column: span 12;
+display: block;
+}
+
+main {
+  margin: 24px;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 3000px;
+  padding-bottom: 100px;
+  margin-top: -300px;
+}
+
+#utopia {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  border-radius: 20px;
+}
+
+footer {
+  grid-column: span 12;
+  margin-top: -2215px;
+  padding-right: 100px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  text-align: center;
+}
+
+#coffee {
+  margin-top: 25px;
+  margin-left: 180px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  box-shadow: 20px 20px 20px #666;
+}
+
+.summaryhead {
+  margin-left: 700px;
+  margin-top: -320px;
+  font-family: 'WhiskeyBitev2-Regular', Helvetica, Arial, Sans-Serif;
+}
+
+.summarybody {
+  margin-left: 700px;
+  width: 250px;
+  padding-bottom: 15px;
+  font-family: helvetica, arial, sans-serif;
+}
+
+#learnmore {
+  font-family: 'WhiskeyBitev2-Regular', Helvetica, Arial, Sans-Serif;
+  margin-left: 700px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #707070;
+  font-family: 'WhiskeyBitev2-Regular', Helvetica, Arial, Sans-Serif;
+  transition: color .5s;
+}
+
+a:hover {
+color: pink;
+text-decoration: underline;
+}
+
+#audiovideo {
+  grid-template-columns: span 12;
+  display: block;
+  margin-top: 620px;
+  margin-left: -930px;
+  width: 560px;
+}
+
+footer a{
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.portfolio {
+  width: 300px;
+}
+
+.portfolioheader {
+  font-family: 'WhiskeyBitev2-Outline', Helvetica, Arial, Sans-Serif;
+  font-size: 45px;
+  margin-left: 50px;
+  text-align: center;
+}
+
+#portfolioslideshow {
+  grid-template-columns: span 12;
+  display: block;
+  margin-top: 400px;
+}
