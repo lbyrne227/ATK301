@@ -70,7 +70,7 @@ main {
 footer {
   grid-column: span 12;
   margin-top: -2215px;
-  padding-right: 100px;
+  padding-right:320px;
   color: white;
   font-family: helvetica, arial, sans-serif;
   text-align: center;
@@ -150,4 +150,20 @@ footer a{
   grid-template-columns: span 12;
   display: block;
   margin-top: 400px;
+}
+
+.cameraimg {
+  grid-template-columns: span 6;
+  margin-left: 580px;
+  margin-top: -300px;
+}
+
+.aboutme {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 550px;
+}
+
+.aboutheader {
+  font-family: 'WhiskeyBitev2-Regular', Helvetica, Arial, Sans-serif;
+  color: #707070;
 }

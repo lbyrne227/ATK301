@@ -6,7 +6,7 @@ body {
 #wrapper {
   margin: auto;
   width: 1200px;
-  height: 2050px;
+  height: 1350px;
   background-color: #B5E6F2;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -69,8 +69,8 @@ main {
 
 footer {
   grid-column: span 12;
-  margin-top: -2100px;
-  padding-right: 140px;
+  margin-top: -3000px;
+  padding-right: 320px;
   color: white;
   font-family: helvetica, arial, sans-serif;
   text-align: center;
@@ -150,4 +150,22 @@ footer a{
   grid-template-columns: span 12;
   display: block;
   margin-top: 400px;
+}
+
+.cameraimg {
+  grid-template-columns: span 6;
+  margin-left: 580px;
+  margin-top: -300px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.aboutme {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 550px;
+}
+
+.aboutheader {
+  font-family: 'WhiskeyBitev2-Regular', Helvetica, Arial, Sans-serif;
+  color: #707070;
 }
