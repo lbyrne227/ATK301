@@ -69,7 +69,7 @@ main {
 
 footer {
   grid-column: span 12;
-  margin-top: -3000px;
+  margin-top: -2990px;
   padding-right: 320px;
   color: white;
   font-family: helvetica, arial, sans-serif;
@@ -115,6 +115,7 @@ a {
   color: #707070;
   font-family: 'WhiskeyBitev2-Regular', Helvetica, Arial, Sans-Serif;
   transition: color .5s;
+  font-size: 15pt;
 }
 
 a:hover {
